@@ -11,3 +11,5 @@ if __name__ == "__main__":
 
     # Executando a janela
     app.exec_()
+
+    #.
