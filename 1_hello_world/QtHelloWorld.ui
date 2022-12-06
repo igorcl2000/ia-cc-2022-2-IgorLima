@@ -25,7 +25,7 @@
     <item>
      <widget class="QLabel" name="hellolabel">
       <property name="text">
-       <string>Hello Poliekos!!!</string>
+       <string>Hello Igor Lima</string>
       </property>
      </widget>
     </item>
