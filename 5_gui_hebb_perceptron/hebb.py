@@ -4,6 +4,7 @@ class Hebb:
         pass
 
 def __init__(self, values_):
+    #.
     self.train = values_
 def step_zero(self):
     self.weights = []

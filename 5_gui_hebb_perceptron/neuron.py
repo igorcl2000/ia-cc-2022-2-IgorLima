@@ -19,3 +19,5 @@ class Neuron:
             return 1
         elif (output < 0):
             return -1
+
+        #.

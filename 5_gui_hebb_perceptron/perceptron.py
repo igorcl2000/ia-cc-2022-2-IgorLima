@@ -35,3 +35,5 @@ def u_out(self, output, teta):
         return 0
     elif (output < -teta):
         return -1
+
+    #.
