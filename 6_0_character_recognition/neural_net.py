@@ -15,7 +15,10 @@ class NeuralNet:
         recognized_characters = []
         for n in self.neuron_list:
             if n.calculate_output(inputs) == 1:
-                recognized_characters.append(self.neuron_list.index(n))
+                if self.neuron_list.index(n) == 9:
+                    recognized_characters.append("Creeper")
+                else:
+                    recognized_characters.append(self.neuron_list.index(n))
 
         return recognized_characters
 
