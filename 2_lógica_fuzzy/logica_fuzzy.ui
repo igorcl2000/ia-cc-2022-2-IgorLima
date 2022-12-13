@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>272</width>
-    <height>205</height>
+    <height>153</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,8 +17,8 @@
    <widget class="QPushButton" name="calcularPushButton">
     <property name="geometry">
      <rect>
-      <x>90</x>
-      <y>130</y>
+      <x>150</x>
+      <y>40</y>
       <width>89</width>
       <height>25</height>
      </rect>
@@ -30,8 +30,8 @@
    <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
-      <x>32</x>
-      <y>32</y>
+      <x>30</x>
+      <y>10</y>
       <width>210</width>
       <height>28</height>
      </rect>
@@ -52,8 +52,8 @@
    <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
-      <x>32</x>
-      <y>66</y>
+      <x>30</x>
+      <y>40</y>
       <width>114</width>
       <height>28</height>
      </rect>
@@ -74,8 +74,8 @@
    <widget class="QLabel" name="riscoLabel">
     <property name="geometry">
      <rect>
-      <x>33</x>
-      <y>101</y>
+      <x>30</x>
+      <y>70</y>
       <width>40</width>
       <height>17</height>
      </rect>
@@ -87,14 +87,27 @@
    <widget class="QLabel" name="riscoLabel2">
     <property name="geometry">
      <rect>
-      <x>79</x>
-      <y>101</y>
+      <x>60</x>
+      <y>90</y>
       <width>161</width>
       <height>17</height>
      </rect>
     </property>
     <property name="text">
      <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>70</y>
+      <width>51</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Igor Lima</string>
     </property>
    </widget>
   </widget>
@@ -104,7 +117,7 @@
      <x>0</x>
      <y>0</y>
      <width>272</width>
-     <height>22</height>
+     <height>21</height>
     </rect>
    </property>
   </widget>
